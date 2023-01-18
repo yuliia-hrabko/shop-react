@@ -1,0 +1,26 @@
+.modal-cart {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.4);
+    position: absolute;
+    z-index: 5;
+    position: fixed;
+    top: 0;
+    right: 0;
+    transform: scale(0);
+}
+
+.modal-cart.active {
+    transform: scale(1);
+}
+
+.modal-cart__content {
+    padding: 20px;
+    background-color: white;
+    width: 400px;
+    z-index: 1031;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 12px;
+}

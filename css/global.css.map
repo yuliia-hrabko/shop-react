@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACF,eAAe,EAAC,eAAe;EAC/B,KAAK,EAAE,IAAI;CAKd;;AAPD,AAII,KAJC,AAIA,MAAM,CAAC;EACJ,KAAK,EAAE,IAAI;CACd;;AAGL,AAAA,UAAU,CAAC;EACP,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,YAAY,EAAE,GAAG;CACpB",
+    "sources": [
+        "../src/unils/styles/global.scss"
+    ],
+    "names": [],
+    "file": "global.css"
+}
